@@ -1,0 +1,62 @@
+{
+  "email": "edwin.s.hou@gmail.com",
+  "links": [
+    {
+      "url": "https://www.linkedin.com/in/edwinhou/",
+      "title": "LinkedIn",
+      "icon": "LinkedInIcon"
+    },
+    {
+      "url": "https://github.com/edwin-hou",
+      "title": "GitHub",
+      "icon": "GithubIcon"
+    }
+  ],
+  "cv": {
+    "file": "",
+    "title": "Download CV",
+    "label": "CV"
+  },
+  "description": [
+    "Full Stack developer heavily influenced by interactions, thoughts, and coffee.",
+    "From California, based in the San Francisco Bay Area."
+  ],
+  "subtitles": ["he/him"],
+  "skills": [
+    ["Web app architecture", "Problem Solving", "Teamwor"],
+    ["Frontend & Backend", "UX/UI"],
+    [
+      "JavaScript",
+      "CSS",
+      "HTML",
+      "Python",
+      "Django",
+      "Three.js",
+      "PHP"
+    ],
+    ["Figma", "Photoshop", "Adobe Premiere"]
+  ],
+  "experiences": [
+    {
+      "position": "Co-Founder & Operations Director",
+      "company": "Los Gatos Hacks",
+      "time": "* current"
+    },
+    {
+      "position": "Co-Founder & Lead Developer",
+      "company": "GudaNews",
+      "time": "2020-2022"
+    }
+  ],
+  "languages": {
+    "fluent": [
+      ["en-US", "English"],
+      ["zh-cn", "Chinese"]
+    ],
+    "intermediate": [["fr", "French"]],
+    "basic": [
+      ["es-mx", "Spanish"]
+    ]
+  },
+  "busy": ["Video Games", "Piano", "School"]
+}
