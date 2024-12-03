@@ -4,9 +4,8 @@
       <TitleFunction
         params="2018,2021"
         subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
-        >otherExperiences</TitleFunction
+        >otherDays</TitleFunction
       >
-####A high school hackathon targeted at promoting STEM culture in underrepresented groups.
       <div class="clouds cloud-1"></div>
       <Pepe v-bind="{ isPlaying }" />
       <div class="clouds cloud-2"></div>
@@ -17,6 +16,34 @@
     <SceneSection id="early-days">
       <TextBlock>
 
+        <p class="-big">
+          (Spring 2024) <br>
+          <strong class="-purple" style="font-size: 1.4em;">USAMO Qualification</strong>
+          </p>
+          <p style="font-size: 1.1em; font-weight: bold;">Prestigious Invitational <a style="color: #682ae9; text-decoration: none;"> Mathematics </a> Commpetition. </p>
+          <strong style="font-size: 1.4em;">Top<a style="color: #682ae9; text-decoration: none;"> 250 (0.4%)</a> in the United States.</strong>
+      </TextBlock>
+    </SceneSection>
+    <SceneSection id="early-days2">
+    <TextBlock>
+        <p class="-big">(2021, now)<br>
+          <strong class="-purple" style="font-size: 1em;">President</strong>
+          <strong style="font-size: 1em;"> @ </strong>
+          <a
+            target="_blank"
+            title="Visit Biz Commerce's website"
+            style="font-size: 1em;"
+          >Los Gatos High School Math Club</a
+          >
+          </p>
+          <p style="font-size: 1.3em;">Organized math club with <a style="color: #682ae9; text-decoration: none;"> 20+</a> members and led them to high placement in the <a style="color: #682ae9; text-decoration: none;"> Stanford Math Tournament</a>.</p>
+
+      </TextBlock>
+      
+    </SceneSection>
+    <SceneSection id="early-days3">
+    <TextBlock>
+  
         <p class="-big">
           (2023, now) <br>
           <strong class="-purple" style="font-size: 1.4em;">Co-Founder</strong>
@@ -31,32 +58,7 @@
           </p>
           <p style="font-size: 1.1em;">One of the largest high school hackathon on the West Coast <a style="color: #682ae9; text-decoration: none;"> 1k+ in prizes </a> and <a style="color: #682ae9; text-decoration: none;"> 50+ participants</a>.</p>
       </TextBlock>
-    </SceneSection>
-    <SceneSection id="early-days2">
-      <TextBlock>
-        <p class="-big">
-          From <span class="-purple">Imagination</span>, to
-          <span class="-purple"> Design</span> to
-          <span class="-purple">Creation</span>
-        </p>
-        <p>
-          Illustrating websites and platforms, pixel by pixel and inches by inches.
 
-        </p>
-      </TextBlock>
-    </SceneSection>
-    <SceneSection id="early-days3">
-      <TextBlock>
-        <p>
-          We've proudly partned with<br />
-          some of the big names such as
-          <span class="-big -purple"
-            ><em>Google</em>, <em>Amazon</em>, Microsoft,
-            <em>Tesla</em></span
-          >
-          among many others...
-        </p>
-      </TextBlock>
     </SceneSection>
   </div>
 </template>

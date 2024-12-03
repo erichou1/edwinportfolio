@@ -1,7 +1,7 @@
 <template>
   <div class="bizScene">
     <TitleSection scene="bizTitle">
-      <TitleFunction params="2023,current">Los Gatos Hacks</TitleFunction>
+      <TitleFunction params="2023,current">AlphaStar Academy</TitleFunction>
     </TitleSection>
 
     <SceneSection id="biz1">

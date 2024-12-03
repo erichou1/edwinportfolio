@@ -1,15 +1,22 @@
 <template>
   <div class="ghibliScene">
     <SceneSection id="Ghibli">
-      <TextBlock>
-        <p>
-          Before creating websites, I was creating
-          <span class="-big -purple">
-            Paintings, 3D models, and Videos
-          </span>
-          for many brands, games, and companies...
-        </p>
+    <TextBlock>
+        <p class="-big">(Summer 2024) <br>
+          <strong class="-purple" style="font-size: 1em;">Independent Research</strong>
+          <strong style="font-size: 1em;"> On </strong>
+          <a
+            href="https://github.com/edwin-hou/AIDetectorResearch/blob/main/Research%20Paper.pdf"
+            target="_blank"
+            title="Visit Biz Commerce's website"
+            style="font-size: 1em;"
+          >AI Accuracy</a
+          >
+          </p>
+          <p style="font-size: 1.1em;">Independent research paper on the accuracy AI detectors published in a<a style="color: #682ae9; text-decoration: none;"> Well Respected Journal</a>.</p>
+
       </TextBlock>
+      
 
       <template #container>
         <div class="sky">
@@ -25,7 +32,25 @@
     </SceneSection>
     <SceneSection id="Ghibli2" />
     <SceneSection id="Ghibli3">
-      <TextBlock>
+    <TextBlock>
+        <p class="-big">(Fall 2023) <br>
+          <strong class="-purple" style="font-size: 1em;">Full Stack Engineer Internship</strong>
+          <strong style="font-size: 1em;"> @ </strong>
+          <a
+            href="https://thecommonsxr.com/"
+            target="_blank"
+            title="Visit Biz Commerce's website"
+            style="font-size: 1em;"
+          >The CommonsXR</a
+          >
+          </p>
+          <p style="font-size: 1.1em;">Only high school intern in revolutionary EdTech Startup that is multiple times published in<a style="color: #682ae9; text-decoration: none;"> IEEE Explorer</a>.</p>
+
+      </TextBlock>
+      
+    </SceneSection>
+    <SceneSection>
+    <TextBlock>
         <p class="-big">
           Studying
           <span class="-purple"
@@ -33,7 +58,7 @@
           >
         </p>
         <p>
-          And watching anime/YouTube & bombing math competitions.
+          And publishing memes on Reddit & .
         </p>
       </TextBlock>
     </SceneSection>

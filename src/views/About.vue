@@ -42,14 +42,7 @@
         </div>
 
         <div class="about-grid">
-          <h2>Main skills</h2>
-          <div class="columns fluent">
-            <ul>
-              <li v-for="(skills, i) in data.skills" :key="i">
-                {{ skills.join(', ') }}<br />
-              </li>
-            </ul>
-          </div>
+  
 
           <h2>Experience</h2>
           <div class="columns experience">
@@ -59,6 +52,16 @@
                 <br />
                 @ {{ experience.company }}<br />
                 {{ experience.time || null }}
+              </li>
+            </ul>
+          </div>
+          <h2>Awards</h2>
+          <div class="columns experience">
+            <ul>
+              <li v-for="(awards, i) in data.awards" :key="i">
+                <strong class="-purple">{{ awards.title }}</strong>
+                <br/>
+                {{ awards.time || null }}
               </li>
             </ul>
           </div>
