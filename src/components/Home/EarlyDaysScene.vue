@@ -2,10 +2,9 @@
   <div class="earlyDays">
     <TitleSection scene="earlyTitle">
       <TitleFunction
-        params="2018,2021"
+        params="2021,2025"
         subtitle="&lt;table&gt;&lt;tr&gt;&lt;td&gt;..."
-        >otherDays</TitleFunction
-      >
+        >otherDays</TitleFunction>
       <div class="clouds cloud-1"></div>
       <Pepe v-bind="{ isPlaying }" />
       <div class="clouds cloud-2"></div>
@@ -17,8 +16,8 @@
       <TextBlock>
 
         <p class="-big">
-          (Spring 2024) <br>
-          <strong class="-purple" style="font-size: 1.4em;">USAMO Qualification</strong>
+          printf(Spring 2024)<br>
+          <strong class="-purple" style="font-size: 1.4em;">USAMO Qualifier</strong>
           </p>
           <p style="font-size: 1.1em; font-weight: bold;">Prestigious Invitational <a style="color: #682ae9; text-decoration: none;"> Mathematics </a> Commpetition. </p>
           <strong style="font-size: 1.4em;">Top<a style="color: #682ae9; text-decoration: none;"> 250 (0.4%)</a> in the United States.</strong>
@@ -26,15 +25,14 @@
     </SceneSection>
     <SceneSection id="early-days2">
     <TextBlock>
-        <p class="-big">(2021, now)<br>
+        <p class="-big">
+          query(2021, now)
+          <br>
           <strong class="-purple" style="font-size: 1em;">President</strong>
           <strong style="font-size: 1em;"> @ </strong>
-          <a
-            target="_blank"
-            title="Visit Biz Commerce's website"
-            style="font-size: 1em;"
-          >Los Gatos High School Math Club</a
-          >
+          <a target="_blank"
+            title="Visit LGHS Math Club's website"
+            style="font-size: 1em;">Los Gatos High School Math Club</a>
           </p>
           <p style="font-size: 1.3em;">Organized math club with <a style="color: #682ae9; text-decoration: none;"> 20+</a> members and led them to high placement in the <a style="color: #682ae9; text-decoration: none;"> Stanford Math Tournament</a>.</p>
 
@@ -45,16 +43,14 @@
     <TextBlock>
   
         <p class="-big">
-          (2023, now) <br>
-          <strong class="-purple" style="font-size: 1.4em;">Co-Founder</strong>
+          query(2023, 2024)
+          <br>
+          <strong class="-purple" style="font-size: 1.4em;">Founder</strong>
           <strong style="font-size: 1.4em;"> @ </strong>
-          <a
-            href="losgatoshacks.com"
+          <a href="https://losgatoshacks.com/"
             target="_blank"
-            title="Visit Biz Commerce's website"
-            style="font-size: 1.4em;"
-          >Los Gatos Hacks</a
-          >
+            title="Visit Los Gatos Hack's website"
+            style="font-size: 1.4em;">Los Gatos Hacks</a>
           </p>
           <p style="font-size: 1.1em;">One of the largest high school hackathon on the West Coast <a style="color: #682ae9; text-decoration: none;"> 1k+ in prizes </a> and <a style="color: #682ae9; text-decoration: none;"> 50+ participants</a>.</p>
       </TextBlock>
