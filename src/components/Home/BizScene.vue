@@ -1,22 +1,19 @@
 <template>
   <div class="bizScene">
     <TitleSection scene="bizTitle">
-      <TitleFunction params="2023,current">AlphaStar Academy</TitleFunction>
+      <TitleFunction params="2023,now">AlphaStar Academy</TitleFunction>
     </TitleSection>
 
     <SceneSection id="biz1">
       <TextBlock>
         <p class="-big">
-          From 2023 to now I was
+          From 2023 to now I have been a
           <strong class="-purple">Teacher Assistant</strong>
           @
-          <a
-            href="https://alphastar.academy/math-summer-camp/"
+          <a href="https://alphastar.academy/courses/"
             target="_blank"
-            title="Visit Biz Commerce's website"
-          >
-            AlphaStar Academy</a
-          >.
+            title="Visit AlphaStar's website">
+            AlphaStar Academy</a>.
         </p>
         <p>
           An extensive training programs for gifted students for national and international Math and Science competitions.
@@ -48,7 +45,7 @@
     <SceneSection id="biz3">
       <TextBlock>
         <p>
-          AlphaStar Academy currently has
+          AlphaStar Academy is honored to have
           <span class="-big">
             <span class="-purple">19 IMO </span> Medals and 
             <span class="-purple">18 IOI</span>  medals.
