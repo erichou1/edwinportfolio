@@ -2,18 +2,17 @@
   <div class="ghibliScene">
     <SceneSection id="Ghibli">
     <TextBlock>
-        <p class="-big">(Summer 2024) <br>
+        <p class="-big">printf(Summer 2024) <br>
           <strong class="-purple" style="font-size: 1em;">Independent Research</strong>
           <strong style="font-size: 1em;"> On </strong>
           <a
             href="https://github.com/edwin-hou/AIDetectorResearch/blob/main/Research%20Paper.pdf"
             target="_blank"
             title="Visit Biz Commerce's website"
-            style="font-size: 1em;"
-          >AI Accuracy</a
-          >
+            style="font-size: 1em;">AI Accuracy</a>
           </p>
-          <p style="font-size: 1.1em;">Independent research paper on the accuracy AI detectors published in a<a style="color: #682ae9; text-decoration: none;"> Well Respected Journal</a>.</p>
+          <p style="font-size: 1.1em;">Independent research paper on the accuracy AI detectors published in a
+          <a href="https://www.amazon.com/Journal-Quantitative-Qualitative-Research-Summer/dp/B0DK3VWYJX" style="color: #682ae9; text-decoration: none;"> Well Respected Journal</a>.</p>
 
       </TextBlock>
       
@@ -33,16 +32,14 @@
     <SceneSection id="Ghibli2" />
     <SceneSection id="Ghibli3">
     <TextBlock>
-        <p class="-big">(Fall 2023) <br>
+        <p class="-big">printf(Fall 2023) <br>
           <strong class="-purple" style="font-size: 1em;">Full Stack Engineer Internship</strong>
           <strong style="font-size: 1em;"> @ </strong>
           <a
             href="https://thecommonsxr.com/"
             target="_blank"
             title="Visit Biz Commerce's website"
-            style="font-size: 1em;"
-          >The CommonsXR</a
-          >
+            style="font-size: 1em;">The CommonsXR</a>
           </p>
           <p style="font-size: 1.1em;">Only high school intern in revolutionary EdTech Startup that is multiple times published in<a style="color: #682ae9; text-decoration: none;"> IEEE Explorer</a>.</p>
 
