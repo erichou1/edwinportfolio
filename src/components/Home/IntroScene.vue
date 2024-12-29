@@ -8,7 +8,7 @@
 
       <TextBlock>
         <p class="-purple">Edwin Hou</p>
-        <p class="-gray">Award-Losing Full Stack Developer</p>
+        <p class="-gray">Math Enthusiast</p>
       </TextBlock>
     </div>
   </section>

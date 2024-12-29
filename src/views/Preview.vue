@@ -25,13 +25,6 @@ const Potion = () => import('../components/Characters/Potion')
 const Shapes = () => import('../components/Characters/Shapes')
 const Shrimp = () => import('../components/Characters/Shrimp')
 const Zen = () => import('../components/Characters/Zen')
-const SuperMarioCoin = () =>
-  import('../components/Characters/SuperMario/Coin.vue')
-const SuperMarioBlock = () =>
-  import('../components/Characters/SuperMario/Block.vue')
-const SuperMarioMario = () =>
-  import('../components/Characters/SuperMario/Mario.vue')
-
 export default {
   name: 'PreviewView',
   components: {
@@ -48,9 +41,6 @@ export default {
     Shapes,
     Shrimp,
     Zen,
-    SuperMarioCoin,
-    SuperMarioBlock,
-    SuperMarioMario,
   },
   data() {
     return {
